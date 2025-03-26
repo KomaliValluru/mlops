@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/mod-3/experiment_tracking/mlruns/257490848984272306/37e363607af24bc7b417727bb4aacced/artifacts
+end_time: 1743016697284
+entry_point_name: ''
+experiment_id: '257490848984272306'
+lifecycle_stage: active
+run_id: 37e363607af24bc7b417727bb4aacced
+run_name: omniscient-squid-134
+run_uuid: 37e363607af24bc7b417727bb4aacced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743016697263
+status: 4
+tags: []
+user_id: codespace

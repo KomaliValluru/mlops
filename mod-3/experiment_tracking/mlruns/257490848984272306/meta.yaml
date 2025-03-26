@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops/mod-3/experiment_tracking/mlruns/257490848984272306
+creation_time: 1743016651822
+experiment_id: '257490848984272306'
+last_update_time: 1743016651822
+lifecycle_stage: active
+name: my_xgboost_experiment
